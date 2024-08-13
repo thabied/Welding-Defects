@@ -1,6 +1,6 @@
 # Welding Defects API
 
-A YoloV8 Object Detction model for welding categorization, deployed as a local dockerized API
+A YoloV8 Object Detection model for welding categorization, deployed as a local dockerized API
 
 <img width="955" alt="Screenshot 2024-08-13 at 18 48 18" src="https://github.com/user-attachments/assets/2e129b57-13e5-4de4-8d63-3d983905635a">
 
