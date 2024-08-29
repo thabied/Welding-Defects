@@ -11,7 +11,7 @@ A YoloV8 Object Detection model for welding categorization, deployed as a local 
 
 ## Setup
 
-1) Pull Docker image using `docker push thabiedmleng/welding-defect-api`
+1) Pull Docker image using `docker pull thabiedmleng/welding-defect-api`
 2) Run container using your container name and port of choice:
    `docker run -p 8000:8000 welding-defect-api:latest`
 3) Query /predict endpoint using:
